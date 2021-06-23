@@ -19,7 +19,7 @@ To set up your development environment:
 ```
 
 > Running node version 12 or higher, in the terminal window
-- run _node dash v_ to check the version
+- run _node dash v_  to check the version
 
 `node -v`
 
