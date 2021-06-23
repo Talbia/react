@@ -18,9 +18,9 @@ Here I'm using Expo to build a simple React Native App:
 To set up your development environment:
 ```
 
-- Running node version 12 or higher
+> Running node version 12 or higher, in the terminal window
+- run _node dash v_ to check the version
 
-- In the terminal window, run _node dash v_ to check the version
 `node -v`
 
 > _Note: if Node js isn't installed on your computer, it will display `node:command not found` on your terminal_
@@ -28,7 +28,7 @@ To set up your development environment:
 ```ssh
 Installation Steps to download Node
 ```
-Open the Terminal app: 
+Open the Terminal app and type:
 
 - a) `brew update` this updates Homebrew with the latest version of Node
 
