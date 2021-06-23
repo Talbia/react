@@ -16,6 +16,7 @@ Disadvantages:
 
 - The high pace of development
 - Poor Documentation
+> React technologies update and accelerate so fast that there's no time for proper documentation
 - View part
 > Covers only the UI layers of the app
 
@@ -52,4 +53,5 @@ Disadvantages:
 | Security | Provides high security | Provides low security in comparison to reactJS | 
 
 
-_ReactJS is ideal for building dynamic, high performing, responsive UI for your web interfaces, while React Native is meant to give your mobile apps a truly native feel._
+
+> _ReactJS is ideal for building dynamic, high performing, responsive UI for your web interfaces, while React Native is meant to give your mobile apps a truly native feel._
