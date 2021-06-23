@@ -23,24 +23,9 @@ To set up your development environment:
 
 `node -v`
 
-> _Note: if Node js isn't installed on your computer, it will display `node:command not found` on your terminal_
+> _Note: if Node js isn't installed on your computer, it will display `node:command not found` on your terminal, for that check the `NODEJS.md` file_
 
-```ssh
-Installation Steps to download Node
-```
-Open the Terminal app and type:
 
-- a) `brew update` this updates Homebrew with the latest version of Node
-
-- b) `brew install node`
-
-Time to test it!
-
-- a) `node -v` in terminal to see if node is installed
-> This should print the version number something like v12.13.0
-
-- b) `npm -v` in terminal to see if npm is installed
-> This should print the version number something like 6.12.0
 
 
 
