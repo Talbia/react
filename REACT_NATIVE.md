@@ -34,7 +34,7 @@ Open the Terminal app and type:
 
 - b) `brew install node`
 
-> Time to test it
+Time to test it!
 - a) `node -v` in terminal to see if node is installed
 > This should print the version number something like v12.13.0
 
