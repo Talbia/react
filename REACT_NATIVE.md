@@ -10,7 +10,7 @@
 ```ssh
  2. Expo CLI
  ```
-> Expo is a set of tools and a framework that sits on top of react native and hides a lot of complexity from us to make it incredibly fast and easy to build react native apps.
+> Expo is a set of tools and a framework that sits on top of react native and hides a lot of complexity from user to make it incredibly fast and easy to build react native apps.
 
 Here I'm using Expo to build a simple React Native App: 
 
@@ -20,8 +20,8 @@ To set up your development environment:
 
 - Running node version 12 or higher
 
-- In the terminal window, run node `dash v` to check the version
-> node -v
+- In the terminal window, run _node dash v_ to check the version
+`node -v`
 
 > _Note: if Node js isn't installed on your computer, it will display `node:command not found` on your terminal_
 
