@@ -7,7 +7,7 @@ Node.js
 > Node.js® is a JavaScript-based environment use to create web-servers and networked applications. It is also used to perform helpful tasks on your computer such as concatenating and minifying JavaScript files and compiling Sass files into CSS.
 
 ```ssh
-NPM
+NPM (Node Package Manager)
 ```
 
 > NPM is a “package manager” that makes installing Node “packages” fast and easy. NPM is installed when you install Node.js
