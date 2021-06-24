@@ -1,4 +1,4 @@
-### Creating Our First _Expo_ Project!
+### Creating Our First Expo Project!
 
 Here in the terminal window, type
 
