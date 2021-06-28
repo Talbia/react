@@ -22,6 +22,11 @@ In the terminal window, type
 
 - `cd DoneWithIt` and `code .` to go to the project directory and open the code editor respectively. 
 
+_Note: `DoneWithIt` is my expo project name_
+
 - Select `New terminal` in VS code, type `npm start` allows to start the expo and opens a developer tool in the default browser named `Metro Bundler`.
 
 _Note: Whenever Expo Developer Tool is disconnected from Expo CLI, use the `expo start` command to start the CLI again._
+
+
+
